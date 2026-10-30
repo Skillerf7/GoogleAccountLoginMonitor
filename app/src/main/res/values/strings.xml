@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Account Login Monitor</string>
+    <string name="sign_in_with_google">Mit Google anmelden</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="login_history">Anmeldeverlauf</string>
+    <string name="security_events">Sicherheitsereignisse</string>
+    <string name="no_events">Keine Ereignisse vorhanden</string>
+    <string name="new_device_detected">Neues Gerät erkannt</string>
+    <string name="limitations_title">Wichtige Einschränkungen</string>
+    <string name="limitations_text">Google stellt keine öffentliche API bereit, die einen vollständigen automatisierten Login-Verlauf (mit IP, Gerät, Standort) für Drittanbieter-Apps liefert. Diese App nutzt ausschließlich autorisierte Google Sign-In und lokale Protokollierung. Für den offiziellen Verlauf besuchen Sie myaccount.google.com/security.</string>
+    <string name="open_google_security">Google-Kontosicherheit öffnen</string>
+    <string name="add_manual_event">Manuelles Ereignis hinzufügen</string>
+    <string name="filter_by_date">Nach Datum filtern</string>
+    <string name="search">Suchen</string>
+    <string name="device_info">Geräteinformationen</string>
+    <string name="ip_address">IP-Adresse</string>
+    <string name="location">Standort</string>
+    <string name="not_available">Nicht verfügbar</string>
+    <string name="timestamp">Zeitstempel</string>
+    <string name="event_type">Ereignistyp</string>
+    <string name="notification_channel_name">Sicherheitsereignisse</string>
+    <string name="notification_channel_desc">Benachrichtigungen bei neuen Sicherheitsereignissen</string>
+    <string name="about">Über diese App</string>
+    <string name="settings">Einstellungen</string>
+</resources>
